@@ -1,0 +1,293 @@
+.contact-child,
+.contact-inner,
+.contact-item,
+.line-div {
+  position: absolute;
+  top: 358px;
+  left: 92px;
+  border-top: 2px solid var(--color-mediumblue);
+  box-sizing: border-box;
+  width: 201px;
+  height: 2px;
+}
+.contact-inner,
+.contact-item,
+.line-div {
+  top: 735px;
+  left: 477px;
+}
+.contact-inner,
+.line-div {
+  top: 1652px;
+  width: 1288px;
+}
+.line-div {
+  top: 2513px;
+}
+.about,
+.branding,
+.editorial-design,
+.home,
+.illustration,
+.poster-design,
+.social-media,
+.ui {
+  position: absolute;
+  top: 803px;
+  left: 93px;
+  text-transform: capitalize;
+  font-weight: 500;
+  cursor: pointer;
+}
+.about,
+.branding,
+.editorial-design,
+.home,
+.illustration,
+.poster-design,
+.ui {
+  top: 717px;
+}
+.about,
+.branding,
+.editorial-design,
+.home,
+.poster-design,
+.ui {
+  top: 555px;
+}
+.about,
+.branding,
+.editorial-design,
+.home,
+.poster-design {
+  top: 474px;
+}
+.about,
+.branding,
+.home,
+.poster-design {
+  top: 393px;
+}
+.about,
+.home,
+.poster-design {
+  top: 236px;
+}
+.about,
+.poster-design {
+  top: 312px;
+}
+.poster-design {
+  top: 636px;
+}
+.hi-i-am1 {
+  line-height: 96.52%;
+}
+.hi-i-am {
+  margin: 0;
+}
+.span {
+  color: var(--color-mediumblue);
+}
+.imen {
+  margin: 0;
+  font-size: var(--font-size-18xl);
+}
+.hi-i-am-container {
+  position: absolute;
+  top: 57px;
+  left: 92px;
+  text-transform: capitalize;
+  display: inline-block;
+  text-align: justify;
+  width: 115px;
+  height: 68px;
+  cursor: pointer;
+  font-size: var(--font-size-13xl);
+}
+.where-creativity-meets {
+  margin-block-start: 0;
+  margin-block-end: 256px;
+  line-height: 136.52%;
+}
+.where-creativity-meets-container {
+  position: absolute;
+  top: calc(50% - 1011px);
+  left: calc(50% - 489.5px);
+  font-size: var(--font-size-5xl);
+  text-transform: capitalize;
+  font-weight: 300;
+  color: var(--color-gray);
+  display: inline-block;
+  width: 566px;
+  height: 224px;
+}
+.i-hold-a {
+  margin-block-start: 0;
+  margin-block-end: 2px;
+}
+.i-hold-a-container {
+  position: absolute;
+  top: 849px;
+  left: calc(50% - 489.5px);
+  letter-spacing: 0.01em;
+  line-height: 171.52%;
+  text-transform: capitalize;
+  color: var(--color-gray);
+  display: inline-block;
+  width: 1260px;
+  height: 772px;
+}
+.thank-you-for {
+  font-weight: 300;
+}
+.thank-you-for-taking-the-time {
+  margin-block-start: 0;
+  margin-block-end: 16px;
+}
+.a-seasoned,
+.i-am {
+  text-transform: lowercase;
+}
+.a-seasoned {
+  color: var(--color-gray);
+}
+.graphic-designer {
+  text-transform: capitalize;
+  color: var(--color-mediumblue);
+}
+.thank-you-for-container {
+  position: absolute;
+  top: 236px;
+  left: 478px;
+  font-size: 41px;
+  display: inline-block;
+  width: 601px;
+  height: 238px;
+  color: var(--color-gray);
+}
+.couv-linkedin-01-01-1 {
+  position: absolute;
+  top: 199px;
+  left: calc(50% + 183.5px);
+  width: 563px;
+  height: 551px;
+  object-fit: cover;
+}
+.about-me,
+.contact1,
+.education,
+.experience {
+  position: absolute;
+  top: 787px;
+  left: 477px;
+  font-size: var(--font-size-6xl);
+  text-transform: capitalize;
+  font-weight: 600;
+  color: var(--color-mediumblue);
+}
+.contact1,
+.education,
+.experience {
+  top: 1704px;
+}
+.contact1,
+.education {
+  top: 2565px;
+}
+.education {
+  top: 1704px;
+  left: 1211px;
+}
+.trainineeship {
+  margin-block-start: 0;
+  margin-block-end: 23px;
+  font-weight: 500;
+}
+.final-study-project {
+  margin: 0;
+  font-weight: 300;
+}
+.kaddechiimengmailcom-003932,
+.trainineeship-final-study-container {
+  position: absolute;
+  left: 479px;
+  color: var(--color-dimgray);
+  display: inline-block;
+}
+.trainineeship-final-study-container {
+  top: 1827px;
+  font-size: var(--font-size-5xl);
+  text-transform: capitalize;
+  width: 501px;
+}
+.kaddechiimengmailcom-003932 {
+  top: 2646px;
+  font-size: 30px;
+  line-height: 134.02%;
+  text-transform: lowercase;
+  font-weight: 300;
+  width: 634px;
+}
+.economy-baccalaureate-in-container,
+.graphic-advertising-master-container,
+.senior-graphic-designer-container {
+  position: absolute;
+  top: 1827px;
+  left: 1213px;
+  font-size: var(--font-size-5xl);
+  text-transform: capitalize;
+  color: var(--color-dimgray);
+  display: inline-block;
+  width: 501px;
+}
+.graphic-advertising-master-container,
+.senior-graphic-designer-container {
+  top: 2156px;
+  left: 479px;
+  width: 573px;
+}
+.graphic-advertising-master-container {
+  left: 1213px;
+}
+.act-nuove-tecnologie-container,
+.freelancer-full-time-container,
+.graphic-design-bachelor-container,
+.graphic-designer-at-container {
+  position: absolute;
+  top: 1977px;
+  left: 479px;
+  font-size: var(--font-size-5xl);
+  text-transform: capitalize;
+  color: var(--color-dimgray);
+  display: inline-block;
+  width: 569px;
+}
+.act-nuove-tecnologie-container,
+.freelancer-full-time-container,
+.graphic-design-bachelor-container {
+  top: 2006px;
+  left: 1213px;
+}
+.act-nuove-tecnologie-container,
+.freelancer-full-time-container {
+  top: 2335px;
+  left: 479px;
+  width: 551px;
+}
+.act-nuove-tecnologie-container {
+  top: 2306px;
+  left: 1213px;
+}
+.contact {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2998px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

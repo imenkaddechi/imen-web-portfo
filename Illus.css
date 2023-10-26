@@ -1,0 +1,231 @@
+.p4 {
+  margin: 0;
+  text-transform: uppercase;
+}
+.tunisia {
+  position: absolute;
+  top: 946px;
+  left: 122px;
+  line-height: 40px;
+  font-weight: 500;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 160px;
+}
+.digital-paint {
+  margin: 0;
+  font-size: var(--font-size-3xl);
+  text-transform: capitalize;
+  color: var(--color-black);
+}
+.digital-paint-container {
+  position: absolute;
+  top: 5542px;
+  left: 146px;
+  line-height: 40px;
+  font-weight: 500;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 160px;
+}
+.kaddechiimengmailcom2 {
+  font-weight: 500;
+}
+.kaddechiimengmailcom-0039-container1 {
+  position: absolute;
+  height: 1.02%;
+  top: 89.31%;
+  left: calc(50% - 103.5px);
+  font-size: var(--font-size-base);
+  text-transform: lowercase;
+  color: var(--color-gray);
+  text-align: center;
+  display: inline-block;
+  width: 529px;
+}
+.frame1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1935px;
+  height: 6446px;
+  overflow: hidden;
+  font-size: var(--font-size-21xl);
+  color: var(--color-mediumblue);
+}
+.illus-child {
+  position: absolute;
+  top: 768px;
+  left: 92px;
+  border-top: 2px solid var(--color-mediumblue);
+  box-sizing: border-box;
+  width: 201px;
+  height: 2px;
+}
+.illus-inner,
+.illus-item {
+  position: absolute;
+  top: 0;
+  left: 404px;
+  background-color: var(--color-whitesmoke-100);
+  width: 1531px;
+  height: 1084px;
+}
+.illus-inner {
+  top: 1206px;
+  height: 4474px;
+}
+.illus-child1,
+.rectangle-div {
+  position: absolute;
+  top: 57px;
+  left: 484px;
+  background-color: var(--color-white);
+  width: 1372px;
+  height: 798px;
+}
+.illus-child1 {
+  top: 1327px;
+  left: 563px;
+  height: 4129px;
+}
+.portrait-3-1,
+.portrait-4-1 {
+  position: absolute;
+  top: 1412px;
+  left: 787px;
+  width: 933px;
+  height: 1243px;
+  object-fit: cover;
+}
+.portrait-4-1 {
+  top: 2739px;
+  height: 1244px;
+}
+.capture-decran-2023-10-26-a1,
+.portrait-5-1 {
+  position: absolute;
+  top: 127px;
+  left: 515px;
+  width: 1309px;
+  height: 642px;
+  object-fit: cover;
+}
+.portrait-5-1 {
+  top: 4066px;
+  left: 777px;
+  width: 943px;
+  height: 1258px;
+}
+.hi-i-am5 {
+  line-height: 96.52%;
+}
+.hi-i-am4 {
+  margin: 0;
+}
+.span5 {
+  color: var(--color-mediumblue);
+}
+.imen4 {
+  margin: 0;
+  font-size: var(--font-size-18xl);
+}
+.hi-i-am-container2,
+.social-media5 {
+  position: absolute;
+  text-transform: capitalize;
+  cursor: pointer;
+}
+.hi-i-am-container2 {
+  top: 57px;
+  left: 92px;
+  display: inline-block;
+  text-align: justify;
+  width: 115px;
+  height: 68px;
+  font-size: var(--font-size-13xl);
+}
+.social-media5 {
+  top: 803px;
+  left: 93px;
+  font-weight: 500;
+}
+.about2,
+.branding2,
+.editorial-design2,
+.home2,
+.illustration2,
+.poster-design2,
+.ui2 {
+  position: absolute;
+  top: 717px;
+  left: 93px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.about2,
+.branding2,
+.editorial-design2,
+.home2,
+.poster-design2,
+.ui2 {
+  top: 555px;
+  cursor: pointer;
+}
+.about2,
+.branding2,
+.editorial-design2,
+.home2,
+.poster-design2 {
+  top: 474px;
+}
+.about2,
+.branding2,
+.home2,
+.poster-design2 {
+  top: 393px;
+}
+.about2,
+.home2,
+.poster-design2 {
+  top: 236px;
+}
+.about2,
+.poster-design2 {
+  top: 312px;
+}
+.poster-design2 {
+  top: 636px;
+}
+.d-illustration-for {
+  margin-block-start: 0;
+  margin-block-end: 18px;
+}
+.d-illustration-for-container,
+.digital-painting-reproduction-container {
+  position: absolute;
+  top: 946px;
+  left: 738px;
+  text-transform: capitalize;
+  font-weight: 500;
+  color: var(--color-dimgray);
+  text-align: center;
+  display: inline-block;
+  width: 860px;
+  height: 138px;
+}
+.digital-painting-reproduction-container {
+  top: 5542px;
+}
+.illus {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 5872px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
